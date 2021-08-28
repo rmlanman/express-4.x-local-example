@@ -1,3 +1,7 @@
+body {
+  margin: 0px;
+}
+
 body > nav {
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   z-index: 99;

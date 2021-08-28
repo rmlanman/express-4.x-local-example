@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background: #fafafa;
+    font-family: Roboto, sans-serif;
+}
+
+.login-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-card-title {
+    padding: 10px;
+    font-size: 1.25rem;
+}
+
+.login-card {
+    width: 300px;
+}
+
+.login-card > div {
+    margin-bottom: 10px;
+}
+
+.password-container {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form * {
+    margin-bottom: 20px;
+}
